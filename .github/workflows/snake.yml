@@ -1,0 +1,17 @@
+name: Snake
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  snake:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate snake
+        uses: Platane/snk@master
+        with:
+          github_user: thy015  # Your GitHub username
+          svg_out: true
+          # Other options can be added here
