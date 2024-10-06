@@ -57,6 +57,5 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/thy015/thy015/output/snake.svg" alt="Snake animation" />
 
 ###
