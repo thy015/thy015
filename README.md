@@ -38,9 +38,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
   <img width="12" />
-  <img src="https://www.svgrepo.com/show/354112/nextjs.svg" height="40" alt="nextjs logo"  />
+  <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
-   <img src=" https://www.svgrepo.com/show/303557/redux-logo.svg" height="40" alt="redux logo"  />
+  <img src="https://www.svgrepo.com/show/303557/redux-logo.svg" height="40" alt="redux logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
   <img width="12" />
