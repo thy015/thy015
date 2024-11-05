@@ -38,6 +38,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
   <img width="12" />
+  <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" height="40" alt="sass logo"  />
+  <img width="12" />
   <img src="https://www.svgrepo.com/show/303557/redux-logo.svg" height="40" alt="redux logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
