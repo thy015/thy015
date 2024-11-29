@@ -40,7 +40,7 @@
   <img width="12" />
   <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" height="40" alt="sass logo"  />
   <img width="12" />
-   <img src="https://vetores.org/wp-content/uploads/typescript.png" height="40" alt="typescript logo"  />
+   <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-typescript-3d-icon-download-in-png-blend-fbx-gltf-file-formats--microsoft-logo-angular-language-javascript-static-type-coding-lang-pack-logos-icons-7577992.png?f=webp" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://www.svgrepo.com/show/303557/redux-logo.svg" height="40" alt="redux logo"  />
   <img width="12" />
