@@ -42,7 +42,7 @@
   <img width="12" />
    <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-typescript-3d-icon-download-in-png-blend-fbx-gltf-file-formats--microsoft-logo-angular-language-javascript-static-type-coding-lang-pack-logos-icons-7577992.png?f=webp" height="40" alt="typescript logo"  />
   <img width="12" />
-   <img src="https://static-00.iconduck.com/assets.00/nextjs-icon-1024x617-rl2bcqfj.png" height="40" alt="nextjs logo"  />
+   <img src="https://miro.medium.com/v2/resize:fit:576/1*yqQpg5pkNNY2NCdcmqVstw.png" height="40" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://www.svgrepo.com/show/303557/redux-logo.svg" height="40" alt="redux logo"  />
   <img width="12" />
